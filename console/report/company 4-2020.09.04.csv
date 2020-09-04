@@ -1,0 +1,12 @@
+Количество всех клиентов; 6
+Количество неактивных клиентов; 1
+Список тарифов и количество активных клиентов;
+tariff 41; 0;
+tariff 42; 1;
+tariff 43; 2;
+tariff 44; 1;
+tariff 45; 1;
+Список активных клиентов и тарифы
+customer 6; tariff 42
+customer 7; tariff 43
+customer 8; tariff 43, tariff 44, tariff 45
